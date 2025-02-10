@@ -5,4 +5,3 @@ To Run:
 Step1: npm install
 Step2: npm run dev
 # ai-master
-# AI-Course-Project---YASH
